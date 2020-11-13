@@ -10,6 +10,7 @@ class Main {
         System.out.println();
 
         for (int i = 9; i < myString.length(); i++) {
+            k
             System.out.print(myString.charAt(i));
         }
         System.out.println();
